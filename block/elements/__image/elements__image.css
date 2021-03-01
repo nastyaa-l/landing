@@ -1,0 +1,10 @@
+.elements__image{
+  margin-left: 33px;
+  max-height: 565px;
+}
+
+@media screen and (min-width: 1320px){
+  .elements__image{
+    margin: 0 14px 0 33px;
+  }
+}

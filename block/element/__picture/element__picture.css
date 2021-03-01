@@ -1,0 +1,15 @@
+.element__picture{
+  height: 136px;
+  width: 132px;
+  object-fit: cover;
+  object-position: 0, 0;
+  margin-bottom: 6px;
+}
+
+@media screen and (min-width: 650px){
+  .element__picture{
+    height: 209px;
+    width: 209px;
+    margin-bottom: 11px;
+  }
+}

@@ -1,0 +1,21 @@
+.header{
+  background-image: url(../../images/1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  padding: 110px 13px 17px;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 425px){
+  .header{
+    padding: 26px;
+  }
+}
+
+@media screen and (min-width: 768px){
+  .header{
+    background-image: url(../../images/TEX_1.jpg);
+  }
+}

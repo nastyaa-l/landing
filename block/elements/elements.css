@@ -1,0 +1,18 @@
+.elements{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 16px;
+  padding-bottom: 24px;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 1024px){
+  .elements{
+    flex-direction: row;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:40px;
+    padding-bottom: 79px;
+  }
+}

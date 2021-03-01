@@ -1,0 +1,9 @@
+.elements__list-items{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  font-family: 'Source Sans Pro';
+  line-height: 1.5;
+  margin-top: 5px;
+}
